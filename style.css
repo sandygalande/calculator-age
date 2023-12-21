@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Itim', cursive;
+}
+.container{
+    background-color: #29cccc;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.chaild{
+    width: 400px;
+    height: 350px;
+    padding: 8px 0px 70px 20px;
+    color: white;
+    border-radius: 20px;
+    background: #16213e;
+    box-shadow: 0 8px 25px 0 #16213e;
+    font-size: 20px;
+}
+label{
+    margin-left: 50px;
+    margin-bottom: 30px;
+}
+input{
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+h2{
+    text-shadow: 2px 2px 1px rgb(91,92,95);
+    margin: 2px 0px 50px 80px;
+    color: darkorange;
+}
+.btn{
+    border-radius: 10px;
+    margin: 10px 20px 30px 50px;
+    padding: 5px;
+    color: white;
+    width: 120px;
+    background-color: coral;
+
+}
+.btn1{
+    border-radius: 10px;
+    margin: 10px 20px 30px 50px;
+    padding: 5px;
+    width: 80px;
+    color: white;
+    background-color: coral;
+}
+p{
+    margin-left: 100px;
+}
+input[type="text"]{
+    border-radius: 10px;
+}
+#icon{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.fa-twitter-square{
+    margin: 10px;
+}
+.fa-linkedin-square{
+    margin: 10px;
+}
+.fa-facebook-square{
+    margin: 10px;
+}
+.fa-instagram{
+    margin: 10px;
+}
